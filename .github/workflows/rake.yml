@@ -11,6 +11,7 @@ jobs:
   rake:
     name: rake
     strategy:
+      fail-fast: false
       matrix:
         os: [ubuntu-20.04, windows_latest]
         ruby: ['2.7', '3.0']
