@@ -24,7 +24,7 @@ gemspec
 gem 'aruba', '~> 0.14.1', require: false
 gem 'cucumber', '9.1.1', require: false
 gem 'minitest', '5.21.1', require: false
-gem 'rake', '13.0.6', require: false
+gem 'rake', '13.1.0', require: false
 gem 'rdoc', '6.6.2', require: false
 gem 'rspec-rails', '6.1.0', require: false
 gem 'rubocop', '1.59.0', require: false
